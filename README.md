@@ -13,7 +13,7 @@ A machine learning-powered web application that predicts the potential risk of h
 * Professional healthcare-inspired design        
         
 ## 📊 Input Parameters  
-
+ 
 The model analyzes the following health indicators:   
 
 * Age
