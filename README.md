@@ -12,7 +12,7 @@ A machine learning-powered web application that predicts the potential risk of h
 * Clinical parameter-based assessment  
 * Professional healthcare-inspired design
   
-## 📊 Input Parameters
+## 📊 Input Parameters  
 
 The model analyzes the following health indicators:
 
