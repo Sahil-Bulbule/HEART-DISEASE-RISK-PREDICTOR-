@@ -2,7 +2,7 @@
 
 A machine learning-powered web application that predicts the potential risk of heart disease based on patient health parameters. The project uses clinical indicators such as age, blood pressure, cholesterol levels, heart rate, and other cardiovascular factors to generate a risk assessment.
 
-## 🚀 Features
+## 🚀 Features  
 
 * Modern and responsive Streamlit UI
 * Heart disease risk prediction      
